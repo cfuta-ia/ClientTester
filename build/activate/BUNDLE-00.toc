@@ -1,0 +1,3 @@
+([('activate',
+   '/Users/cfuta/Desktop/ClientTester/dist/activate',
+   'EXECUTABLE')],)
